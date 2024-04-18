@@ -1,0 +1,1 @@
+sudo systemctl $1 group-wall-automod.service
